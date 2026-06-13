@@ -1,82 +1,137 @@
+# `README.md`
+
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VjYjR2OW1kY3N5d3BqM2tncG82MnR6M2tna2Nla2t6Y3Q0dWl5biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlQXlQ3nHyLMvte/giphy.gif" width="450"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="550" alt="Matrix Banner"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hey%2C+I'm+Muhammad+Usman+Khan;Aspiring+Malware+Analyst;Reverse+Engineering+Enthusiast;Exploring+the+Inner+Workings+of+Software;Turning+Curiosity+into+Capability" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Muhammad+Usman+Khan;Aspiring+Malware+Analyst;Reverse+Engineering+Enthusiast;Exploring+the+Inner+Workings+of+Software;Turning+Curiosity+into+Capability" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🔐 About Me
+## 👨‍💻 About Me
 
-I am passionate about understanding how software works beneath the surface.
+I am passionate about understanding how software behaves beneath the surface. With a background spanning software development and computer science, I am currently focused on Malware Analysis and Reverse Engineering.
 
-While pursuing my Computer Science degree at Sukkur IBA University, I have developed a strong interest in Malware Analysis and Reverse Engineering through hands-on exploration and continuous learning.
-
-I enjoy dissecting complex systems, documenting my findings, and building practical skills that strengthen my cybersecurity foundation.
+I enjoy dissecting complex systems, documenting what I learn, and continuously expanding my technical perspective through hands-on exploration.
 
 ---
 
 ## 🎯 Current Focus
 
-- Malware Analysis & Reverse Engineering
-- Windows Internals
-- Static & Dynamic Analysis
-- x86 Assembly Fundamentals
-- Linux for Security Operations
-- Network Analysis & Threat Investigation
-- Building Hands-on Security Projects
+* Malware Analysis & Reverse Engineering
+* Windows Internals
+* x86/x64 Assembly
+* Static & Dynamic Analysis
+* PE File Format & Execution Flow
+* Debugging & Threat Research
+* Behavioral Analysis & API Tracing
 
 ---
 
-## 💻 Languages & Technologies
+## 🛠️ Security Toolkit
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,java,javascript,html,css,mongodb,mysql" />
+<p align="left">
+
+<img src="https://img.shields.io/badge/Ghidra-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IDA_Free-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/x64dbg-008000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Procmon-0078D6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Process_Explorer-0078D6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PEStudio-444444?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Detect_It_Easy-DIE-444444?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/YARA-FFB000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FLOSS-5C2D91?style=for-the-badge" />
+
 </p>
 
 ---
 
-## 🛠️ Tools & Platforms
+## 💻 Languages & Development Background
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,vscode,git,github,docker" />
-</p>
+<p align="left">
 
-Additional Exposure:
-- Wireshark
-- Ghidra
-- IDA Free
-- Process Monitor
-- Process Explorer
-- VirtualBox
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,bash,html,css,mysql,mongodb,nodejs,express,react,git,github" />
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KhannUsman&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KhannUsman&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 🖥️ Platforms
 
-- Advanced Malware Analysis
-- Reverse Engineering Techniques
-- Windows API Internals
-- Detection Engineering
-- Threat Hunting Concepts
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=windows,kali,linux" />
+
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KhannUsman&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhannUsman&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=KhannUsman&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 🚧 Projects in Progress
+
+* Malware Analysis Write-ups
+* Reverse Engineering Notes
+* CrackMe Solutions
+* YARA Rules
+* Threat Research Documentation
+
+---
+
+## 📚 Learning Journey
+
+```text
+Foundation               ██████████░░  70%
+Static Analysis          ████░░░░░░░░  30%
+Dynamic Analysis         ██░░░░░░░░░░  15%
+Reverse Engineering      ███░░░░░░░░░  25%
+Portfolio Development    ████░░░░░░░░  35%
+```
 
 ---
 
 <div align="center">
 
-### "The quieter you become, the more you are able to hear."
+### 💭 Philosophy
+
+> **"Turning Curiosity into Capability."**
+
+> **"Understanding systems beyond the surface."**
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=KhannUsman&label=Profile%20Views&color=00ff41&style=for-the-badge" />
+
+</div> 
+
+
