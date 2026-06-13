@@ -2,9 +2,6 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="380" alt="Matrix Banner"/>
-
-<br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=32&pause=1200&color=00E5FF&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B+Hey%2C+I'm+Muhammad+Usman+Khan;Aspiring+Malware+Analyst;Reverse+Engineering+Enthusiast;Exploring+the+Inner+Workings+of+Software;Turning+Curiosity+into+Capability" alt="Typing SVG" />
 
